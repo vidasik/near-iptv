@@ -1,0 +1,5 @@
+#EXTM3U url=tvg="https://near.rf.gd/xml/schedule.xml"
+#EXTINF -1 tvg-logo="https://i.ibb.co/xS8vc1mx/Frame-590.png" group-title="Информационно-развлекательный" tvg-id="1", Near Channel
+https://132544.edgevideo.ru/streams/132544_871130/132544720/index.m3u8
+#EXTINF -1 tvg-logo="https://i.ibb.co/xS8vc1mx/Frame-590.png" group-title="Информационно-развлекательный" tvg-id="2", Near Channel (Backup Live)
+https://live-hz-6.livepush.io/live/emB6QM2DQvCNEJ4Ut/chunks.m3u8
