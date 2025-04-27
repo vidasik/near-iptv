@@ -1,5 +1,9 @@
 #EXTM3U url=tvg="https://near.rf.gd/xml/schedule.xml"
 #EXTINF -1 tvg-logo="https://i.ibb.co/xS8vc1mx/Frame-590.png" group-title="Информационно-развлекательный" tvg-id="1", Near Channel
-https://132544.edgevideo.ru/streams/132544_871130/132544720/index.m3u8
-#EXTINF -1 tvg-logo="https://i.ibb.co/xS8vc1mx/Frame-590.png" group-title="Информационно-развлекательный" tvg-id="2", Near Channel (Backup Live)
-https://live-hz-6.livepush.io/live/emB6QM2DQvCNEJ4Ut/chunks.m3u8
+https://132544.edgevideo.ru/streams/132544_871130/1325441080/index.m3u8
+#EXTINF -1 tvg-logo="https://i.ibb.co/xS8vc1mx/Frame-590.png" group-title="Информационно-развлекательный" tvg-id="1", Near Channel (Backup Live)
+https://live-hz-7.livepush.io/live/emB6QM2DQvCNEJ4Ut/chunks.m3u8
+#EXTINF -1 tvg-logo="https://i.ibb.co/pBYZ6Rxk/0316.png" group-title="Информационный" tvg-id="2", Nearские новости
+https://132544.edgevideo.ru/streams/132544_859499/1325441080/index.m3u8
+#EXTINF -1 tvg-logo="https://i.ibb.co/pBYZ6Rxk/0316.png" group-title="Информационный" tvg-id="2", Nearские новости (Backup Live)
+https://live-hz-6.livepush.io/live/emnR5kqlcUQIM2X-/chunks.m3u8
