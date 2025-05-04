@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+    <channel>
+        <tvg-id>1</tvg-id>
+        <tvg-name>NEARСКИЕ НОВОСТИ</tvg-name>
+        <schedule>
+            <event>
+                <date>2025-05-09</date>
+                <time>09:00</time>
+                <title>NEARСКИЕ НОВОСТИ: Спецвыпуск</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>10:00</time>
+                <title>Парад в Москве, Красная площадь</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>11:00</time>
+                <title>Праздничный Альтерградский Эфир</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>12:00</time>
+                <title>Разбор мемов</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>12:12</time>
+                <title>Рекламная пауза</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>12:15</time>
+                <title>Echoing Dreams: EP</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>12:25</time>
+                <title>Праздничное общение</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>13:00</time>
+                <title>Перерыв в вещании</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>19:50</time>
+                <title>Echoing Dreams: EP</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>20:00</time>
+                <title>NEARСКИЕ НОВОСТИ: Вечерний дайджест</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>20:15</time>
+                <title>Альтерградский эфир</title>
+            </event>
+            <event>
+                <date>2025-05-09</date>
+                <time>21:00</time>
+                <title>Конец эфира</title>
+            </event>
+            <event>
+                <date>2025-05-30</date>
+                <time>20:00</time>
+                <title>NEARСКИЕ НОВОСТИ: Вечерний дайджест</title>
+            </event>
+            <event>
+                <date>2025-05-30</date>
+                <time>20:15</time>
+                <title>Разбор Мемов</title>
+            </event>
+            <event>
+                <date>2025-05-30</date>
+                <time>20:30</time>
+                <title>Альтерградский эфир</title>
+            </event>
+            <event>
+                <date>2025-05-30</date>
+                <time>21:00</time>
+                <title>Профилактика</title>
+            </event>
+            <event>
+                <date>2025-05-31</date>
+                <time>13:00</time>
+                <title>NEARСКИЕ НОВОСТИ: День</title>
+            </event>
+            <event>
+                <date>2025-05-31</date>
+                <time>14:00</time>
+                <title>Альтерградский эфир</title>
+            </event>
+            <event>
+                <date>2025-05-31</date>
+                <time>15:00</time>
+                <title>Общение</title>
+            </event>
+            <event>
+                <date>2025-05-31</date>
+                <time>16:00</time>
+                <title>Юмористы</title>
+            </event>
+            <event>
+                <date>2025-05-31</date>
+                <time>16:30</time>
+                <title>QuizConnect</title>
+            </event>
+            <event>
+                <date>2025-05-31</date>
+                <time>17:00</time>
+                <title>Профилактика</title>
+            </event>
+            <event>
+                <date>2025-05-31</date>
+                <time>23:00</time>
+                <title>Эпическое общение</title>
+            </event>
+            <event>
+                <date>2025-05-31</date>
+                <time>23:55</time>
+                <title>Отсчёт до лета</title>
+            </event>
+            <event>
+                <date>2025-06-01</date>
+                <time>00:00</time>
+                <title>ИТОГИ: Чего мы добились? / Итоги учебного года</title>
+            </event>
+        </schedule>
+    </channel>
+    <channel>
+        <tvg-id>2</tvg-id>
+        <tvg-name>Тестовый эфир</tvg-name>
+        <schedule>
+            <event>
+                <date>2025-03-21</date>
+                <time>00:00</time>
+                <title>Тестовый эфир</title>
+            </event>
+        </schedule>
+    </channel>
+</playlist>
