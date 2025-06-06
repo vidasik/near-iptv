@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF: 1 tvg-logo="https://i.ibb.co/JR52r0rS/Frame-288.png" tvg-name="Разбор Мемов", Первый выпуск
+https://tube.old-web.com/static/streaming-playlists/hls/43ab04e6-bb64-49e3-93aa-02d3f88539e2/ea2db436-0e24-495a-9f37-fa805325ef44-1080.m3u8
+#EXTINF: 1 tvg-logo="https://i.ibb.co/JR52r0rS/Frame-288.png" tvg-name="Разбор Мемов", Второй выпуск
+https://tube.old-web.com/static/streaming-playlists/hls/f34e0679-3676-41b1-a3ec-67da2e4cbe58/24da94ad-b7cc-41a8-a0b0-3357672d425c-1080.m3u8
+#EXTINF: 1 tvg-logo="https://i.ibb.co/JR52r0rS/Frame-288.png" tvg-name="Разбор Мемов", Третий выпуск
+https://tube.old-web.com/static/streaming-playlists/hls/21f9a7c1-ad09-4510-9e2f-0a3b28fc2334/a469536e-57f9-449d-9653-b80b6da9c1fd-1080.m3u8
+#EXTINF: 1 tvg-logo="https://i.ibb.co/JR52r0rS/Frame-288.png" tvg-name="Разбор Мемов", Четвёртый выпуск
+https://tube.old-web.com/static/streaming-playlists/hls/64720756-eb6f-46a0-afc8-0938453991c8/3bf01244-9d5f-4911-a118-750a75e0ba6d-1080.m3u8
