@@ -1,9 +1,18 @@
-#EXTM3U url=tvg="https://raw.githubusercontent.com/vidasik/near-iptv/refs/heads/main/scheduler.xml"
-#EXTINF -1 tvg-logo="https://i.ibb.co/xS8vc1mx/Frame-590.png" group-title="Информационно-развлекательный" tvg-id="1", Near Channel
+#EXTM3U
+#EXTINF:-1 group-title="NearMEDIA" tvg-logo="https://i.ibb.co/Jw95fYKX/Frame-924.png" tvg-id="1", Near
 https://132544.edgevideo.ru/streams/132544_871130/1325441080/index.m3u8
-#EXTINF -1 tvg-logo="https://i.ibb.co/xS8vc1mx/Frame-590.png" group-title="Информационно-развлекательный" tvg-id="1", Near Channel (Backup Live)
-https://live-hz-7.livepush.io/live/emB6QM2DQvCNEJ4Ut/chunks.m3u8
-#EXTINF -1 tvg-logo="https://i.ibb.co/pBYZ6Rxk/0316.png" group-title="Информационный" tvg-id="2", Nearские новости
+
+#EXTINF:-1 group-title="NearMEDIA" tvg-logo="https://i.ibb.co/nMDLJnyy/Rectangle-682.png" tvg-id="1", Near и Nearские новости
+https://live-hz-7.livepush.io/live/em7wFELKirlF2JxD/chunks.m3u8
+
+#EXTINF:-1 group-title="NearMEDIA" tvg-logo="https://i.ibb.co/nMDLJnyy/Rectangle-682.png" tvg-id="2", Nearские новости
 https://132544.edgevideo.ru/streams/132544_859499/1325441080/index.m3u8
-#EXTINF -1 tvg-logo="https://i.ibb.co/pBYZ6Rxk/0316.png" group-title="Информационный" tvg-id="2", Nearские новости (Backup Live)
-https://live-hz-6.livepush.io/live/emnR5kqlcUQIM2X-/chunks.m3u8
+
+#EXTINF:-1 group-title="NearMEDIA" tvg-logo="https://i.ibb.co/nMDLJnyy/Rectangle-682.png" tvg-id="3", Near-LIFE
+https://132544.edgevideo.ru/streams/132544_916574/1325441080/index.m3u8
+
+#EXTINF:-1 group-title="Альтер-тематика" tvg-logo="https://i.ibb.co/27pCkfmD/photo-2025-06-02-21-02-43.jpg" tvg-id="4", Альтерградский канал
+https://132544.edgevideo.ru/streams/132544_922526/1325441080/index.m3u8
+
+#EXTINF:-1 group-title="Альтер-тематика" tvg-logo="https://i.ibb.co/27pCkfmD/photo-2025-06-02-21-02-43.jpg" tvg-id="4", AlterFest
+https://132544.edgevideo.ru/streams/132544_920546/1325441080/index.m3u8
