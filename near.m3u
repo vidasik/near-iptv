@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="NearMEDIA" tvg-logo="https://i.ibb.co/Jw95fYKX/Frame-924.png" tvg-id="1", Near
 https://132544.edgevideo.ru/streams/132544_871130/1325441080/index.m3u8
 
+#EXTINF:-1 group-title="NearMEDIA" tvg-logo="https://i.ibb.co/Jw95fYKX/Frame-924.png" tvg-id="1-udp", Near - UDP
+udp://@udpnear.dynnamn.ru:5000
+
 #EXTINF:-1 group-title="NearMEDIA" tvg-logo="https://i.ibb.co/nMDLJnyy/Rectangle-682.png" tvg-id="1", Near и Nearские новости
 https://live-hz-7.livepush.io/live/em7wFELKirlF2JxD/chunks.m3u8
 
