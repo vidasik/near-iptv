@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: 1 tvg-logo="https://i.ibb.co/JR52r0rS/Frame-288.png" tvg-name="Разбор Мемов", Первый выпуск
-https://tube.old-web.com/static/streaming-playlists/hls/43ab04e6-bb64-49e3-93aa-02d3f88539e2/ea2db436-0e24-495a-9f37-fa805325ef44-1080.m3u8
+https://player.odycdn.com/v6/streams/2e27cf780efd2233c8a3fd211447b7665a056f8e/bd2f76.mp4
 #EXTINF: 1 tvg-logo="https://i.ibb.co/JR52r0rS/Frame-288.png" tvg-name="Разбор Мемов", Второй выпуск
 https://tube.old-web.com/static/streaming-playlists/hls/f34e0679-3676-41b1-a3ec-67da2e4cbe58/24da94ad-b7cc-41a8-a0b0-3357672d425c-1080.m3u8
 #EXTINF: 1 tvg-logo="https://i.ibb.co/JR52r0rS/Frame-288.png" tvg-name="Разбор Мемов", Третий выпуск
